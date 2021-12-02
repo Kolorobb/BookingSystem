@@ -1,4 +1,4 @@
-# Online Guest House Booking System
+# Guest House Booking System
 
 The website is an Online Guest House Booking System (OGHBS) developed to allow visitors to   book a stay in the Guest Houses . The visitor can register himself
 / herself , choose dates of visit , select a room and choose food options from a variety of options available. It also provides payment facility , an option to cancel the 
